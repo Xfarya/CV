@@ -7,6 +7,8 @@ Anthropologist turned to tech! Worked worldwide in NGOs and Development. Wannabe
 
 After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3!
 
+Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment!
+
 Tech Skills: Ruby...
 
 
@@ -41,7 +43,7 @@ Thrive under pressure
 
 Being able to communicate and mediate has been a big part of most of my previous jobs. As a cultural mediator with Save the Children, it was my job to make sure the beneficiaries were receiving all the information pertinent to their needs at the shelter. I wrote up and translated copies to be distributed around the shelter, and headed any staff meetings or interactions that involved communication with the beneficiaries. I was also the first point of call for emergencies.
 
-Fast Learner
+Initiative
 
 When I started working for Bihar in Iraq as a Sr Monitoring and Evaluation Officer, I was thrown into the deep-end having to learn everything from scratch and train my team from day one. I did as much research as I could on the position, and produced studies and analyses of the local area, learning about data collection techniques. I also networked by attending all the local conferences to do with the topics of our concern (protection, health clusters), looking for potential project partners and donors. 
 
