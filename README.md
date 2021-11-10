@@ -55,8 +55,9 @@ For a complete list, see my GitHub.
         <td align="center"><a href="https://github.com/Xfarya/acebook-rails-template-simple">
     <img width="1348" alt="Screenshot 2021-11-10 at 11 55 01" src="https://user-images.githubusercontent.com/76533997/141108673-f578fa97-d367-4d9a-9a1d-2b70e409a4e6.png">
     </a></td>
-        <td align="center">Facebook Clone</td>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </td>
+        <td align="center">Facebook clone project</td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+ </td>
     </tr>
 </table>
 
