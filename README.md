@@ -84,7 +84,7 @@ For a complete list, see my GitHub.
 
 <table align="center">
     <tr>
-        <td align="center"><a href="https://github.com/Xfarya/blackjack">
+        <td align="center"><a href="https://github.com/Xfarya/blackjack/blob/main/README.md">
             <img width="100%" alt="Screenshot 2021-11-10 at 14 22 35" src="https://user-images.githubusercontent.com/76533997/141130461-890c7969-8ded-4063-a3b3-83bba88d6983.png"></td>
         <td align="center">Let's play BlackJack! Simple game made in JS/JQuery</td>
         <td align="center"><img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </td>
