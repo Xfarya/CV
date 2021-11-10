@@ -12,9 +12,71 @@ My background in development has equipped me with resilience, a strong work ethi
 <!-- After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3! -->
 
 <!-- Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment! -->
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul dir="auto">
+          <li><img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"></li>
+<!--          <li>Java</li>
+         <li>Python</li> -->
+          <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"><a href="https://rubyonrails.org" rel="nofollow"></li>
+          <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </li>
+          <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></li>
+        </ul>
+      </td>
+      <td>
+        <ul dir="auto">
+          <li>React.js</li>
+         <li> <img src="https://camo.githubusercontent.com/b435190f010fa196ad12d86b6f3debf7167d51c042ce8247aadbc82bfb6e3c9e/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31353035363334333538313535313934323237382d3531322e706e67" alt="nodejs" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" style="max-width: 100%;"></li>
+          <li>AJAX</li>
+          <li>Bootstrap</li>
+          <li>JQuery</li>
+          <li><img src="https://camo.githubusercontent.com/8c054299851b7b3ff817014e0ec0a62a235f73c870d3157f5d2f8a67245ad615/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f323231393739313834313535313934323633392d3531322e706e67" alt="rails" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" style="max-width: 100%;"></li>
+          <li>Sinatra</li>
+          <li><img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_128x128.png" alt="mongodb" height="40" style="max-width: 100%;"> </a><a href="https://expressjs.com" rel="nofollow"></li>
+          <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></li>
+          <li>Heroku</li>
+          <li>Git</li>
+       <li><img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" alt="express" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;"> </li>
+        </ul>
+      </td>
+      <td>
+        <ul dir="auto">
+          <li><img src="https://camo.githubusercontent.com/b7bcf38107c15d49ce51fa0bc14fb230560a7ba3925d561b6b3b0f5dcb38bb42/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a61736d696e652f6a61736d696e652d69636f6e2e737667" alt="jasmine" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="max-width: 100%;"></li>
+          <li><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"> </li>
+          <li>Capybara</li>
+         <li>JUnit</li>
+         <li><img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"></li>
+        </ul>
+      </td>
+      <td>
+        <ul dir="auto">
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>OOP/D</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+          <li>Team collaboration</li>
+          <li>Pair programming</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"><a href="https://rubyonrails.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8c054299851b7b3ff817014e0ec0a62a235f73c870d3157f5d2f8a67245ad615/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f323231393739313834313535313934323633392d3531322e706e67" alt="rails" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" style="max-width: 100%;"> </a><a href="https://rspec.info/" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"> </a></div><a href="https://www.postgresql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a><div><a href="https://www.javascript.com/t" rel="nofollow"><img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"> </a></div><a href="https://jasmine.github.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/b7bcf38107c15d49ce51fa0bc14fb230560a7ba3925d561b6b3b0f5dcb38bb42/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a61736d696e652f6a61736d696e652d69636f6e2e737667" alt="jasmine" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="max-width: 100%;"> </a><a href="https://jestjs.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"> </a><a href="https://www.mongodb.com/" rel="nofollow"><img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_128x128.png" alt="mongodb" height="40" style="max-width: 100%;"> </a><a href="https://expressjs.com" rel="nofollow"><img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" alt="express" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;"> </a><a href="https://nodejs.org" rel="nofollow"><img src="https://camo.githubusercontent.com/b435190f010fa196ad12d86b6f3debf7167d51c042ce8247aadbc82bfb6e3c9e/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31353035363334333538313535313934323237382d3531322e706e67" alt="nodejs" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" style="max-width: 100%;"> </a><a href="https://html.com/#What_is_HTML" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a><a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+
+
 
 ## Projects
 
