@@ -61,7 +61,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 
 <table align="center">
     <tr>
-        <td align="center"><a href="https://github.com/Xfarya/work-social">
+        <td align="center"><a href="https://github.com/Xfarya/work-social/blob/main/README.md">
     <img width="100%" alt="Screenshot 2021-11-10 at 13 51 05" src="https://user-images.githubusercontent.com/76533997/141125312-ecb3a428-ad51-457b-8ded-3b2773a7ae92.png"> </a>
     </td>
         <td align="center">A platform for users to send/receive small gifts. Final group project </td>
