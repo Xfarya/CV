@@ -40,9 +40,23 @@ For a complete list, see my GitHub.
     <tr>
         <td align="center"><a href="https://github.com/Xfarya/chitter-challenge#readme"><img width="100%" alt="homepage" src="https://user-images.githubusercontent.com/76533997/141092899-252e9214-85b5-44b8-b26c-25a15b5c69e1.png"></a></td>
         <td align="center">Basic Twitter clone allowing users to post messages to a public stream.</td>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" style="max-width:50%;>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
     </td>
+    </tr>
+</table>
+    
+----------
+    
+### AceBook
+
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/Xfarya/acebook-rails-template-simple">
+    <img width="1348" alt="Screenshot 2021-11-10 at 11 55 01" src="https://user-images.githubusercontent.com/76533997/141108673-f578fa97-d367-4d9a-9a1d-2b70e409a4e6.png">
+    </a></td>
+        <td align="center">Facebook Clone</td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </td>
     </tr>
 </table>
 
@@ -52,8 +66,7 @@ For a complete list, see my GitHub.
     <tr>
         <td align="center"><a href="https://github.com/Xfarya/chitter-challenge#readme"><img width="100%" alt="homepage" src="https://user-images.githubusercontent.com/76533997/141092899-252e9214-85b5-44b8-b26c-25a15b5c69e1.png"></a></td>
         <td align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock!</td>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" style="max-width:50%;>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"></td>
     </tr>
 </table>
 
