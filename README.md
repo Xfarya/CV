@@ -5,22 +5,21 @@
 <a href="Projects">Education</a> ||
 <a href="Projects">Hobbies & Interests</a> ||</div>  
 </br>
-Anthropologist turned to tech! Worked worldwide in NGOs and Development. Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to. Particularly love problem solving and working in dynamic teams.
 
-My background in development has equipped me with resilience, a strong work ethic, and a strong sense of empathy. I am excited by all aspects of tech, especially in how it can be a force of positive change in how people relate to each other, and can move us towards more equitable and empowered societies!
+Anthropologist turned to tech! Worked worldwide in NGOs and Development. Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to. Particularly love problem solving and working in dynamic teams.My background in development has equipped me with resilience, a strong work ethic, and a strong sense of empathy. I am excited by all aspects of tech, especially in how it can be a force of positive change in how people relate to each other, and can move us towards more equitable and empowered societies!  
 
 <!-- After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3! -->
 
 <!-- Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment! -->
 <table>
-  <thead>
+<!--   <thead>
     <tr>
       <th>Languages</th>
       <th>Technologies</th>
       <th>Testing Frameworks</th>
       <th>Concepts</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
     <tr>
       <td>
@@ -58,7 +57,7 @@ My background in development has equipped me with resilience, a strong work ethi
          <li><img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"></li>
         </ul>
       </td>
-      <td>
+<!--       <td>
         <ul dir="auto">
           <li>XP/Agile methodology</li>
           <li>TDD/BDD</li>
@@ -70,7 +69,7 @@ My background in development has equipped me with resilience, a strong work ethi
           <li>Git workflow</li>
           <li>Code review</li>
         </ul>
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
