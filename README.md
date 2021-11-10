@@ -28,7 +28,7 @@ My background in development has equipped me with resilience, a strong work ethi
 
 ## Projects
 
-For a complete list, see my GitHub.
+For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories">GitHub</a>.
 
 ### Chitter
 
