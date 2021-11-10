@@ -75,7 +75,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 <table align="center">
     <tr>
         <td align="center"><a href="https://github.com/Xfarya/chitter-challenge#readme">
-         <img width="797" alt="Screenshot 2021-11-10 at 23 45 44" src="https://user-images.githubusercontent.com/76533997/141211558-781c475e-1f97-4f82-9483-1e46e0d21098.png">
+   <img width="100%" alt="Screenshot 2021-11-10 at 23 47 34" src="https://user-images.githubusercontent.com/76533997/141211791-1906f381-5c16-48e1-8aef-a27bb5f9b5a3.png">
          </a></td>
         <td align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock!</td>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"></td>
