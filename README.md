@@ -82,6 +82,8 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
     </tr>
 </table>
 
+----------
+
 ### BlackJack
 
 <table align="center">
@@ -93,7 +95,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
     </tr>
 </table>
 
-
+---------------
 
 ## Skills
 
