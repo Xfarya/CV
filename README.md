@@ -1,9 +1,9 @@
-## Farya Hussain
+<h1 align="center">Farya Hussain</h1>
 
-<div align="center">|| <a href="Projects">Projects</a> ||
-<a href="Projects">Work Experience</a> ||
-<a href="Projects">Education</a> ||
-<a href="Projects">Hobbies & Interests</a> ||</div>  
+<div align="center">|| <a href="#projects">Projects</a> ||
+<a href="#experience">Work Experience</a> ||
+<a href="#education">Education</a> ||
+<a href="#skills">Skills</a> ||</div>  
 </br>
 
 ----------
