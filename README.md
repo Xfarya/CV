@@ -1,7 +1,7 @@
 <h1 align="center">Farya Hussain</h1>
 
 <div align="center">|| <a href="#projects">Projects</a> ||
-<a href="#experience">Work Experience</a> ||
+<a href="#work-experience">Work Experience</a> ||
 <a href="#education">Education</a> ||
 <a href="#skills">Skills</a> ||</div>  
 </br>
