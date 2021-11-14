@@ -53,7 +53,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
      <td align="center"><a href="https://github.com/Xfarya/acebook-rails-template-simple#readme"><img width="100%" alt="Screenshot 2021-11-10 at 11 55 01" src="https://user-images.githubusercontent.com/76533997/141108673-f578fa97-d367-4d9a-9a1d-2b70e409a4e6.png">
     </a></td>
      <td align="center">Facebook clone social media app, as part of a Makers' group project in Rails </td>
-    <td align="center" width: "90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="100" height="40" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;">
+    <td align="center" width: "90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="100" height="40" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="100" height="40" style="max-width: 100%;">
      <hr>
 <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;">
      <hr> 
