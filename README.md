@@ -42,7 +42,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
      <hr> 
      <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="60" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
 <!--      <hr> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="40"/> --></td> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" href="https://rps-by-farya.herokuapp.com/" alt="css3" width="60" height="40"/> --></td> 
     </tr>
 </table>
     
