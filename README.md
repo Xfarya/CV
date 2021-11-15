@@ -122,19 +122,20 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
  -->
 
-Communicator
+**Communicator**
 
 Working for SMART news as the only native English speaker in an Arabic newspaper was a position purely based on the importance of effective communication. I had to constantly make sure my manager was able to understand the decisions I was taking, as he only spoke Arabic. I did this through sending regular e-mail updates, requesting other colleagues to mediate our conversations, and sending translated versions of the texts. This ensured that our work thrived, despite the barriers of distance (working remotely) and language.
 
-Thrive under pressure
+**Thrive under pressure**
 
 Being able to communicate and mediate has been a big part of most of my previous jobs. As a cultural mediator with Save the Children, it was my job to make sure the beneficiaries were receiving all the information pertinent to their needs at the shelter. I wrote up and translated copies to be distributed around the shelter, and headed any staff meetings or interactions that involved communication with the beneficiaries. I was also the first point of call for emergencies.
 
-Initiative
+**Initiative**
 
 When I started working for Bihar in Iraq as a Sr Monitoring and Evaluation Officer, I was thrown into the deep-end having to learn everything from scratch and train my team from day one. I did as much research as I could on the position, and produced studies and analyses of the local area, learning about data collection techniques. I also networked by attending all the local conferences to do with the topics of our concern (protection, health clusters), looking for potential project partners and donors.
 
-Analytical
+**Analytical**
+
 I worked as a researcher for Law Business Research, which required me to produce reports on economic trends in corporate law markets. I headed the constuction law issue, being respoisble to delegating research to my team, producing and editing articles and reports, carrying out primary and secondary research. I enjoy analytical thinking and I was glad readers benefitted from my research and predictions on seasonal legal market fluctuations.
 
 <!-- #### This Skill
@@ -153,9 +154,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
  -->
 
+------------
+
 ## Education
 
-#### Makers Academy (June 28 to Oct 28)
+**Software Development Bootcamp** | **Makers Academy**  
+(June 2021 to Oct 2021)   
 
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
 <!-- - e.g Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
@@ -165,59 +169,71 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-A 16-week intensive development bootcamp, focusing on:
+Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
+  
+Agile methodologies in fast-paced (~2week) group projects  
+Quickly picking up new technologies, using different tech stacks   
+Developed clean-code principals  
+Covered OOP, TDD, MVC  
+Ruby, Rails, Sinatra, JS, MERN  
+RSpec, Capybara, Jasmine, Cypress  
 
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
+**MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
+(2015 to 2016)  
+Distinction  
 
-S**chool of Oriental and African Studies (2015 to 2016)
-**
+**BA(hons) English Literature, Philosophy** | **University of Edinburgh**  
+(2009 to 2013)   
+2,1  
 
-- MA(hons) Anthropology, Arabic, Development
-- Distinction
+**Year Abroad** | **University of Melbourne**  
+(2011-2012)  
 
-#### University of Edinburgh (2009 to 2013)
-
-- BA(hons) English Literature, Philosophy
-- 2,1
-- University of Melbourne (2011-2012) - Year Abroad
+---------
 
 ## Work Experience
 
-**SMART news** (2017-2018)  
-Chief Editor (English)
+**Chief Editor (English)** | **SMART news** | (Remote)  
+(2017-2018)  
+ Arabic-language newspaper reporting on-the-ground news in Syria  
+ Worked remotely within teams  
+ Responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner  
+ 
 
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
 
-**Bahar NGO** (2017-2018)  
-Sr Monitoring and Evaluation Officer
-
+**Sr Monitoring and Evaluation Officer** | **Bahar NGO** | (Erbil, Iraq)    
+(2017-2018)   
+ An NGO delivering medical aid to the North-eastern parts of Syria  
+ Lead a small team  
+ Carried out and collected on-the-ground data, produced localised reports  
 <!-- - Any experience relevent to software development -->
 
-**Save the Children** (2016-2017)  
-Cultural Mediator
+**Cultural Mediator** | **Save the Children** | (Kos, Greece)   
+(2016-2017)  
+Responsible for mediating relations between 40 undocumented minors and a team of NGO staff  
 
 <!-- - Any experience relevent to software development
  -->
 
-Any other qualifications
+### Any other qualifications
 
 <!--
 That in some arguable way make you a better software developer or well-rounded person
  -->
 
-French Institute, Cairo (2017 to 2018)
+**Kernel KB3 cohort** (2021) (Remote)
+a collective of people discussing and networking on potential futures in web3 and decentralised internet.
 
-- Arabic (MSA and Ammeyah)
-- Part of Kernel KB3 cohort - a collective of people interested in web3 and decentralised internet.
+**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)
+MSA and Ammeyah
+
+-----------
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+**Yoga, hiking, running, climbing : :** I love being active, going on excursions and trying out new and novel activities.
 
-- Yoga, hiking, climbing
-- Painting, drawing, tattoo
-- Writing
+**Painting, drawing, tattoo : :** I enjoy spending time going life-drawing or learning new skills, such as most recently, how to tattoo.
+
+**Writing, reading : :** As a former literature student, of course I enjoy reading and also looking at writing short stories and plays.
