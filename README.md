@@ -4,7 +4,8 @@
 <a href="#work-experience">Work Experience</a> ||
 <a href="#education">Education</a> ||
 <a href="#skills">Skills</a> ||
-<a href="#hobbies">Hobbies</a> ||</div>  
+<a href="#hobbies">Hobbies</a> ||
+ <a href="https://www.linkedin.com/in/farya-hussain-a40148bb/">LinkedIn</a> ||</div>  
 </br>
 
 ----------
