@@ -48,6 +48,23 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 </table>
     
 ----------
+
+### Bank Tech Test
+
+<table align="center">
+    <tr>
+    <td width="50%" align="left"><a href="https://github.com/Xfarya/Bank-Tech-Test/blob/main/README.md">
+     <img width="100%" alt="Screenshot 2021-11-16 at 20 10 02" src="https://user-images.githubusercontent.com/76533997/142063227-7a243315-23e9-4cce-a8d6-987b6e394bdd.png">
+     </a></td>
+    <td width="15%" align="center">Basic exercise in TDD and clean code</td>
+    <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="40"/>
+     <hr> 
+     <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;">
+     <td width="8%" align="center"></td>
+    </tr>
+</table>
+
+-----------
     
 ### AceBook
 
