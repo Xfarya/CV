@@ -5,8 +5,9 @@
 <a href="#education">Education</a> ||
 <a href="#skills">Skills</a> ||
 <a href="#hobbies">Hobbies</a> ||
- <a href="https://www.linkedin.com/in/farya-hussain-a40148bb/">LinkedIn</a> ||</div>  
-</br>
+ <a href="https://www.linkedin.com/in/farya-hussain-a40148bb/">LinkedIn</a> ||</div>
+ 
+</hr>
 
 ----------
 Anthropologist turned to tech! Worked worldwide in NGOs and Development.  Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to.  Particularly love problem solving and working in dynamic teams.  
@@ -187,8 +188,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
  -->
 
 ------------
-
 ## Education
+
+<div align= "center">
 
 **Software Development Bootcamp** | **Makers Academy**  
 (June 2021 to Oct 2021)   
@@ -220,11 +222,15 @@ Distinction
 
 **Year Abroad** | **University of Melbourne**  
 (2011-2012)  
+ 
+</div>
 
 ---------
 
 ## Work Experience
 
+<div align="center">
+ 
 **Chief Editor (English)** | **SMART news** | (Remote)  
 (2017-2018)  
  Arabic-language newspaper reporting on-the-ground news in Syria  
@@ -247,19 +253,24 @@ Responsible for mediating relations between 40 undocumented minors and a team of
 
 <!-- - Any experience relevent to software development
  -->
+</div>
 
 ### Any other qualifications
 
 <!--
 That in some arguable way make you a better software developer or well-rounded person
  -->
-
-**Kernel KB3 cohort** (2021) (Remote)
+<div align="center">
+ 
+**Kernel KB3 cohort** (2021) (Remote)  
 a collective of people discussing and networking on potential futures in web3 and decentralised internet.
 
-**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)
+**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)  
 MSA and Ammeyah
 
+ </div>
+ 
+ 
 -----------
 
 ## Hobbies
