@@ -39,7 +39,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
     <td width="50%" align="left"><a href="https://github.com/Xfarya/Bank-Tech-Test/blob/main/README.md">
      <img width="100%" alt="Screenshot 2021-11-16 at 20 10 02" src="https://user-images.githubusercontent.com/76533997/142063227-7a243315-23e9-4cce-a8d6-987b6e394bdd.png">
      </a></td>
-    <td width="15%" align="center">Basic exercise in TDD and clean code. <br>Built using Ruby.</td>
+    <td width="15%" align="center">Basic exercise in TDD and clean code. <br><br>Built using Ruby.</td>
     <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="40"/>
      <hr> 
      <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;">
@@ -48,7 +48,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
     <tr>
         <td width="10%"><a href="https://github.com/Xfarya/chitter-challenge#readme"><strong>Chitter</strong></a></td>
     <td width="50%" align="left"><a href="https://github.com/Xfarya/chitter-challenge#readme"><img width="100%"alt="homepage" src="https://user-images.githubusercontent.com/76533997/141092899-252e9214-85b5-44b8-b26c-25a15b5c69e1.png"></a></td>
-    <td width="15%" align="center">Basic Twitter clone allowing users to post messages to a public stream. <br>Built using Ruby, Postgres and Sinatra.</td>
+    <td width="15%" align="center">Basic Twitter clone allowing users to post messages to a public stream. <br><br>Built using Ruby, Postgres and Sinatra.</td>
     <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="100" height="40"/> <img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="100" height="40"/>
      <hr> 
      <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
@@ -61,7 +61,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
         <td width="50%" align="left">
      <a href= "https://github.com/Xfarya/rps/blob/main/README.md"><img width="100%" alt="gameboard" src="https://user-images.githubusercontent.com/76533997/141285198-9162be0d-6bbc-4a47-b85e-22e704b80207.png"></a>
      </td>
-        <td width="15%" align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock! <br>Built using Ruby and Sinatra.</td>
+        <td width="15%" align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock!<br> <br>Built using Ruby and Sinatra.</td>
         <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/><hr><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"></td>
   <td width="5%" align="center"> <a href="https://rps-by-farya.herokuapp.com/">deployed here!<img src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" alt="rps_heroku" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a></td>   
  </tr>
