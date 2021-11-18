@@ -253,8 +253,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-**Yoga, hiking, running, climbing : :** I love being active, going on excursions and trying out new and novel activities.
+**Yoga, hiking, running, climbing : :** I love being active, going on adventures and trying out new and novel activities.
 
-**Painting, drawing, tattoo : :** I enjoy spending time going life-drawing or learning new skills, such as most recently, how to tattoo.
+**Painting, drawing, tattoo : :** I enjoy spending time honing my drawing skills. I attend life-drawing sessions when I can. Most recently, I am teaching myself how to tattoo!
 
-**Writing, reading : :** As a former literature student, of course I enjoy reading and also looking at writing short stories and plays.
+**Writing, reading : :** As a former literature student, of course I enjoy reading and also looking to write creative writing, short stories and plays.
