@@ -33,27 +33,9 @@ My background in development has equipped me with resilience, a strong work ethi
 
 For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories">GitHub</a>.
 
-### Chitter
-
 <table align="center">
     <tr>
-    <td width="50%" align="left"><a href="https://github.com/Xfarya/chitter-challenge#readme"><img width="100%"alt="homepage" src="https://user-images.githubusercontent.com/76533997/141092899-252e9214-85b5-44b8-b26c-25a15b5c69e1.png"></a></td>
-    <td width="15%" align="center">Basic Twitter clone allowing users to post messages to a public stream.</td>
-    <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="100" height="40"/> <img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="100" height="40"/>
-     <hr> 
-     <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
-<!--      <hr> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="40"/> --></td> 
-     <td width="8%" align="center"></td>
-    </tr>
-</table>
-    
-----------
-
-### Bank Tech Test
-
-<table align="center">
-    <tr>
+     <td width="10%"><a href="https://github.com/Xfarya/Bank-Tech-Test/blob/main/README.md"><strong>Bank Tech Test</strong></a></td>
     <td width="50%" align="left"><a href="https://github.com/Xfarya/Bank-Tech-Test/blob/main/README.md">
      <img width="100%" alt="Screenshot 2021-11-16 at 20 10 02" src="https://user-images.githubusercontent.com/76533997/142063227-7a243315-23e9-4cce-a8d6-987b6e394bdd.png">
      </a></td>
@@ -63,10 +45,31 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
      <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;">
      <td width="8%" align="center"></td>
     </tr>
+    <tr>
+        <td width="10%"><a href="https://github.com/Xfarya/chitter-challenge#readme"><strong>Chitter</strong></a></td>
+    <td width="50%" align="left"><a href="https://github.com/Xfarya/chitter-challenge#readme"><img width="100%"alt="homepage" src="https://user-images.githubusercontent.com/76533997/141092899-252e9214-85b5-44b8-b26c-25a15b5c69e1.png"></a></td>
+    <td width="15%" align="center">Basic Twitter clone allowing users to post messages to a public stream.</td>
+    <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="100" height="40"/> <img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="100" height="40"/>
+     <hr> 
+     <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
+<!--      <hr> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="40"/> --></td> 
+     <td width="8%" align="center"></td>
+    </tr>
+    <tr>
+          <td width="10%"><a href= "https://github.com/Xfarya/rps/blob/main/README.md"><strong>RPS</strong></a></td>
+        <td width="50%" align="left">
+     <a href= "https://github.com/Xfarya/rps/blob/main/README.md"><img width="100%" alt="gameboard" src="https://user-images.githubusercontent.com/76533997/141285198-9162be0d-6bbc-4a47-b85e-22e704b80207.png"></a>
+     </td>
+        <td width="15%" align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock!</td>
+        <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/><hr><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"></td>
+  <td width="8%" align="center"> <a href="https://rps-by-farya.herokuapp.com/"><img src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" alt="rps_heroku" width="190" height="190" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a></td>   
+ </tr>
 </table>
 
------------
-    
+----------
+
+<!--     
 ### AceBook
 
 <table align="center">
@@ -82,20 +85,6 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
  </td>
     <td width="8%" align="center"><a href="https://young-plains-56373.herokuapp.com/"><img src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" alt="acebook_heroku" width="190" height="190" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a></td>
     </tr>
-</table>
-
------------
-### RPS
-
-<table align="center">
-    <tr>
-        <td width="50%" align="left">
-     <a href= "https://github.com/Xfarya/rps/blob/main/README.md"><img width="100%" alt="gameboard" src="https://user-images.githubusercontent.com/76533997/141285198-9162be0d-6bbc-4a47-b85e-22e704b80207.png"></a>
-     </td>
-        <td width="15%" align="center">Simple game of Rock, Paper, Scissors, Lizard, Spock!</td>
-        <td width="8%" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/><img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" alt="sinatra" width:="40" height="40"/><hr><img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;"><hr><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </td>
-  <td width="8%" align="center"> <a href="https://rps-by-farya.herokuapp.com/"><img src="https://camo.githubusercontent.com/e28ded186e568aba00abd5c8830f26d821add2d97ddf4a41cf545ec6a1245758/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2e737667" alt="rps_heroku" width="190" height="190" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="max-width: 100%;"></a></td>   
- </tr>
 </table>
 
 --------
@@ -126,8 +115,81 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
       <td width="8%" align="center"></td>
     </tr>
 </table>
+ -->
 
----------------
+## Work Experience
+ 
+**Chief Editor (English)** | **SMART news** | (Remote)  
+(2017-2018)  
+ Arabic-language newspaper reporting on-the-ground news in Syria  
+ Worked remotely within teams  
+ Responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner  
+ 
+
+<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
+
+**Sr Monitoring and Evaluation Officer** | **Bahar NGO** | (Erbil, Iraq)    
+(2017-2018)   
+ An NGO delivering medical aid to the North-eastern parts of Syria  
+ Lead a small team  
+ Carried out and collected on-the-ground data, produced localised reports  
+<!-- - Any experience relevent to software development -->
+
+**Cultural Mediator** | **Save the Children** | (Kos, Greece)   
+(2016-2017)  
+Responsible for mediating relations between 40 undocumented minors and a team of NGO staff  
+
+<!-- - Any experience relevent to software development
+ -->
+
+### Any other qualifications
+
+<!--
+That in some arguable way make you a better software developer or well-rounded person
+ -->
+ 
+**Kernel KB3 cohort** (2021) (Remote)  
+a collective of people discussing and networking on potential futures in web3 and decentralised internet.
+
+**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)  
+MSA and Ammeyah
+
+------------
+
+## Education
+
+**Software Development Bootcamp** | **Makers Academy**  
+(June 2021 to Oct 2021)   
+
+<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
+<!-- - e.g Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below:
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine -->
+
+Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
+  
+Agile methodologies in fast-paced (~2week) group projects  
+Quickly picking up new technologies, using different tech stacks   
+Developed clean-code principals  
+Covered OOP, TDD, MVC  
+Ruby, Rails, Sinatra, JS, MERN  
+RSpec, Capybara, Jasmine, Cypress  
+
+**MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
+(2015 to 2016)  
+Distinction  
+
+**BA(hons) English Literature, Philosophy** | **University of Edinburgh**  
+(2009 to 2013)   
+2,1  
+
+**Year Abroad** | **University of Melbourne**  
+(2011-2012)  
+
+-----------
 
 ## Skills
 
@@ -188,90 +250,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
  -->
 
 ------------
-## Education
-
-<div align= "center">
-
-**Software Development Bootcamp** | **Makers Academy**  
-(June 2021 to Oct 2021)   
-
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
-<!-- - e.g Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
-
-Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
-  
-Agile methodologies in fast-paced (~2week) group projects  
-Quickly picking up new technologies, using different tech stacks   
-Developed clean-code principals  
-Covered OOP, TDD, MVC  
-Ruby, Rails, Sinatra, JS, MERN  
-RSpec, Capybara, Jasmine, Cypress  
-
-**MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
-(2015 to 2016)  
-Distinction  
-
-**BA(hons) English Literature, Philosophy** | **University of Edinburgh**  
-(2009 to 2013)   
-2,1  
-
-**Year Abroad** | **University of Melbourne**  
-(2011-2012)  
- 
-</div>
-
----------
-
-## Work Experience
-
-<div align="center">
- 
-**Chief Editor (English)** | **SMART news** | (Remote)  
-(2017-2018)  
- Arabic-language newspaper reporting on-the-ground news in Syria  
- Worked remotely within teams  
- Responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner  
- 
-
-<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
-
-**Sr Monitoring and Evaluation Officer** | **Bahar NGO** | (Erbil, Iraq)    
-(2017-2018)   
- An NGO delivering medical aid to the North-eastern parts of Syria  
- Lead a small team  
- Carried out and collected on-the-ground data, produced localised reports  
-<!-- - Any experience relevent to software development -->
-
-**Cultural Mediator** | **Save the Children** | (Kos, Greece)   
-(2016-2017)  
-Responsible for mediating relations between 40 undocumented minors and a team of NGO staff  
-
-<!-- - Any experience relevent to software development
- -->
-</div>
-
-### Any other qualifications
-
-<!--
-That in some arguable way make you a better software developer or well-rounded person
- -->
-<div align="center">
- 
-**Kernel KB3 cohort** (2021) (Remote)  
-a collective of people discussing and networking on potential futures in web3 and decentralised internet.
-
-**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)  
-MSA and Ammeyah
-
- </div>
- 
- 
------------
 
 ## Hobbies
 
