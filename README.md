@@ -121,9 +121,9 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
  
 **Chief Editor (English)** | **SMART news** | (Remote)  
 (2017-2018)  
- Arabic-language newspaper reporting on-the-ground news in Syria  
- Worked remotely within teams  
- Responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner  
+Arabic-language newspaper reporting on-the-ground news in Syria  
+
+Worked remotely within diverse teams. One of the problems this encountered was the need to be available at all hours, as teams members were working in different timezones, not to mention the language barrier. I enjoyed the challenge of working flexible and somewhat unpredictable hours. I also figured out e-mail correspondences (translating when necessary) between key team members and made my availability clear to all, thus ensuring that there was a (relatively!) seamless exchange of information for effectively delivering news. I was also responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner. I really enjoy organising, presentation and managing the flow of work, and so this was an added perk to the job.
  
 
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
@@ -131,13 +131,17 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 **Sr Monitoring and Evaluation Officer** | **Bahar NGO** | (Erbil, Iraq)    
 (2017-2018)   
  An NGO delivering medical aid to the North-eastern parts of Syria  
- Lead a small team  
+ 
+ Lead a small team of Syrian refugees during the build-up of one of their offices in Iraq (the organisation is headquartered in Gazientep, Turkey). One of the many challenges of working in this context was delivery of services, such as to areas like Makhmour, which required clear and concise direction in order to be successfully executed. Again, I really enjoyed having to communicate with many different actors in order to figure out the best possible way to achieve our common goals, and we managed to begin collecting data on protection and recreational services we could provide to women and children in this area.
+ 
  Carried out and collected on-the-ground data, produced localised reports  
 <!-- - Any experience relevent to software development -->
 
 **Cultural Mediator** | **Save the Children** | (Kos, Greece)   
-(2016-2017)  
-Responsible for mediating relations between 40 undocumented minors and a team of NGO staff  
+(2016-2017)
+An INGO delivering humanitarian aid services to children.
+
+Responsible for mediating relations between 40 undocumented minors and a team of NGO staff. This was a very challenging environment, but one where I enjoyed the fast pace and unpredictable nature of the work. One of the biggest challenges faced here was of improving relations between staff and minors, which I helepd to improve through delivering cultural workshops, as well as facilitating meetings between staff and beneficiaries. These efforts came to a fore during the 2017 Kos earthquake, as none of us were really prepared for this, working in makeshift camps on the streets really solidified our sense of solidarity and community!
 
 <!-- - Any experience relevent to software development
  -->
