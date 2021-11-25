@@ -183,7 +183,7 @@ Intensive 16-week development bootcamp, comprising of pair-programming, self-led
 - RSpec, Capybara, Jasmine, Cypress  
 
 **MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
-(2015 to 2016)  
+(2014 to 2016)  
 Distinction  
 
 **BA(hons) English Literature, Philosophy** | **University of Edinburgh**  
