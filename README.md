@@ -120,7 +120,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 ## Work Experience
  
 **Chief Editor (English)** | **SMART news** | (Remote)  
-(2018-2019)  
+(2018-2018)  
 Arabic-language newspaper reporting on-the-ground news in Syria  
 
 Worked remotely within diverse teams. One of the problems this encountered was the need to be available at all hours, as teams members were working in different timezones, not to mention the language barrier. I enjoyed the challenge of working flexible and somewhat unpredictable hours. I also figured out e-mail correspondences (translating when necessary) between key team members and made my availability clear to all, thus ensuring that there was a (relatively!) seamless exchange of information for effectively delivering news. I was also responsible for ensuring news feeds were properly translated, formatted and uploaded to the website in a timely manner. I really enjoy organising, presentation and managing the flow of work, and so this was an added perk to the job.
