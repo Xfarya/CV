@@ -155,7 +155,7 @@ That in some arguable way make you a better software developer or well-rounded p
 **Kernel KB3 cohort** (2021) (Remote)  
 a collective of people discussing and networking on potential futures in web3 and decentralised internet.
 
-**Arabic at the French Institute** (2017 to 2018) (Cairo, Egypt)  
+**Arabic at the French Institute** (2018 to 2019) (Cairo, Egypt)  
 MSA and Ammeyah
 
 ------------
