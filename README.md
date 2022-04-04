@@ -10,10 +10,10 @@
 </hr>
 
 ----------
-Anthropologist turned to tech! Worked worldwide in NGOs and Development.  Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to.  Particularly love problem solving and working in dynamic teams.  
+<!-- Anthropologist turned to tech! Worked worldwide in NGOs and Development.  Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to.  Particularly love problem solving and working in dynamic teams.  
 
 My background in development has equipped me with resilience, a strong work ethic, and a strong sense of empathy. I am excited by all aspects of tech, especially in how it can be a force of positive change in how people relate to each other, and can move us towards more equitable and empowered societies!       
-
+ -->
 <!-- After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3! -->
 
 <!-- Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment! -->
