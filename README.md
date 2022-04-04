@@ -152,12 +152,12 @@ Responsible for mediating relations between 40 undocumented minors and a team of
 That in some arguable way make you a better software developer or well-rounded person
  -->
  
-**Kernel KB3 cohort** (2021) (Remote)  
+<!-- **Kernel KB3 cohort** (2021) (Remote)  
 a collective of people discussing and networking on potential futures in web3 and decentralised internet.
 
 **Arabic at the French Institute** (2018 to 2019) (Cairo, Egypt)  
 MSA and Ammeyah
-
+ -->
 ------------
  -->
 ## Education
