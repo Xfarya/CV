@@ -162,9 +162,9 @@ MSA and Ammeyah
  -->
 <!-- ## Education -->
 
-**Software Development Bootcamp** | **Makers Academy**  
+<!-- **Software Development Bootcamp** | **Makers Academy**  
 (June 2021 to Oct 2021)   
-
+ -->
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
 <!-- - e.g Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:
@@ -196,7 +196,7 @@ P -->
 
 -----------
 
-## Skills
+<!-- ## Skills -->
 
 <!--
 -STAR
