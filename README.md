@@ -117,7 +117,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 </table>
  -->
 
-## Work Experience
+<!-- ## Work Experience
  
 **Chief Editor (English)** | **SMART news** | (Remote)  
 (2018-2018)  
@@ -159,7 +159,7 @@ a collective of people discussing and networking on potential futures in web3 an
 MSA and Ammeyah
 
 ------------
-
+ -->
 ## Education
 
 **Software Development Bootcamp** | **Makers Academy**  
@@ -182,7 +182,7 @@ Intensive 16-week development bootcamp, comprising of pair-programming, self-led
 - Ruby, Rails, Sinatra, JS, MERN  
 - RSpec, Capybara, Jasmine, Cypress  
 
-**MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
+<!-- **MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
 (2014 to 2016)  
 Distinction  
 
@@ -192,7 +192,7 @@ Distinction
 
 ***Year Abroad*** | **University of Melbourne**  
 (2011-2012)  
-P
+P -->
 
 -----------
 
@@ -212,7 +212,7 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
  -->
 
-**Communicator**
+<!-- **Communicator**
 
 Working for SMART news as the only native English speaker in an Arabic newspaper was a position purely based on the importance of effective communication. I had to constantly make sure my manager was able to understand the decisions I was taking, as he only spoke Arabic. I did this through sending regular e-mail updates, requesting other colleagues to mediate our conversations, and sending translated versions of the texts. This ensured that our work thrived, despite the barriers of distance (working remotely) and language.  
 
@@ -237,7 +237,7 @@ I worked as a researcher for Law Business Research, which required me to produce
 
 My time at Makers allowed me to put these skills to great use, especially in terms of arriving to a MVP. I was able to deduce the key elements and features of the app and focus on these to deadlines. It has also made testing a very interesting concept to get my head around, as I look to test behaviours and not states - I find this very enjoyable. I would definitely like to delve deeper into testing methods and implementation in any future employment I may have.
 
-
+ -->
 <!-- #### This Skill
 
 - Experience
