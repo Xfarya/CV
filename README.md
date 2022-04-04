@@ -160,7 +160,7 @@ MSA and Ammeyah
  -->
 ------------
  -->
-## Education
+<!-- ## Education -->
 
 **Software Development Bootcamp** | **Makers Academy**  
 (June 2021 to Oct 2021)   
@@ -173,14 +173,14 @@ MSA and Ammeyah
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
+<!-- Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
   
 - Agile methodologies in fast-paced (~2week) group projects  
 - Quickly picking up new technologies, using different tech stacks   
 - Developed clean-code principals  
 - Covered OOP, TDD, MVC  
 - Ruby, Rails, Sinatra, JS, MERN  
-- RSpec, Capybara, Jasmine, Cypress  
+- RSpec, Capybara, Jasmine, Cypress   -->
 
 <!-- **MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
 (2014 to 2016)  
