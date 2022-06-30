@@ -10,23 +10,21 @@
 </hr>
 
 ----------
-<!-- Anthropologist turned to tech! Worked worldwide in NGOs and Development.  Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to.  Particularly love problem solving and working in dynamic teams.  
+Anthropologist turned to tech! Worked worldwide in NGOs and Development.  Highly motivated to taking on challenges, believing that I am capable of learning anything I put my mind to.  Particularly love problem solving and working in dynamic teams.  
 
 My background in development has equipped me with resilience, a strong work ethic, and a strong sense of empathy. I am excited by all aspects of tech, especially in how it can be a force of positive change in how people relate to each other, and can move us towards more equitable and empowered societies!       
- -->
-<!-- After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3! -->
 
-<!-- Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment! -->
+After graduation I worked in several places (France, Greece, Iraq and Egypt), in various roles within international development agencies. Between then and now, I have studied Arabic at the French Institute in Cairo, trained at a Muay Thai camp, worked as a project manager on some local construction projects, started teaching myself how to code, and received two scholarships (Makers and Kernel) to learn more about tech, coding, and web3! 
+
+Since June 2021, I have been studying with a full scholarship at Makers Academy, a developer bootcamp. Intensive, the course has given me fundamentals of software development through making interesting projects. I have also been learning best coding practices. I am excited to be in a dynamic and creative working environment!
 
 --------
 
-<!-- Row 1 -->
-<!-- <div align="center">| <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"> |--|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">
+<div align="center">| <img src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" alt="javascript" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"> |--|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">
 |--|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width: 100%;">| <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/RSpec.svg?sanitize=true" alt="css3" width="40" height="40" style="max-width: 100%;">|<img src="https://camo.githubusercontent.com/b7bcf38107c15d49ce51fa0bc14fb230560a7ba3925d561b6b3b0f5dcb38bb42/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a61736d696e652f6a61736d696e652d69636f6e2e737667" alt="jasmine" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="max-width: 100%;">|<img src="https://camo.githubusercontent.com/2d4521ddf7c11a388ead08b890240554eb9c64a6438ff40fcfeae4724698ab89/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f383537353134373833313535333735303337392d36342e706e67" alt="react" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" style="max-width: 100%;">|<img src ="https://iconape.com/wp-content/png_logo_vector/sinatra-logo.png" style="max-width:50%;>| 
 
 | <img src="https://camo.githubusercontent.com/b435190f010fa196ad12d86b6f3debf7167d51c042ce8247aadbc82bfb6e3c9e/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31353035363334333538313535313934323237382d3531322e706e67" alt="nodejs" width="40" height="40" data-canonical-src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" style="max-width: 100%;"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;"> | <img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_128x128.png" alt="mongodb" height="40" style="max-width: 100%;"> </a><a href="https://expressjs.com" rel="nofollow"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">|<img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" alt="express" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="max-width: 100%;">|<img src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667" alt="jest" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;">|<img src="https://camo.githubusercontent.com/105d6aa4ccfe106979d0628bcfd9cebb5640cbd657c39a849e9ab8201ec87fcb/68747470733a2f2f7777772e6d61696c736c7572702e636f6d2f6173736574732f6272616e64732f63617079626172612e706e67" data-canonical-src="https://www.mailslurp.com/assets/brands/capybara.png" style="max-width: 5%; height:40px;">
 </div>
- -->
 
 
 ## Projects
@@ -115,9 +113,9 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
       <td width="8%" align="center"></td>
     </tr>
 </table>
- -->
 
-<!-- ## Work Experience
+
+## Work Experience
  
 **Chief Editor (English)** | **SMART news** | (Remote)  
 (2018-2018)  
@@ -127,21 +125,20 @@ Worked remotely within diverse teams. One of the problems this encountered was t
  
 
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
-<!-- 
 **Sr Monitoring and Evaluation Officer** | **Bahar NGO** | (Erbil, Iraq)    
 (2017-2018)   
  An NGO delivering medical aid to the North-eastern parts of Syria  
  
  Lead a small team of Syrian refugees during the build-up of one of their offices in Iraq (the organisation is headquartered in Gazientep, Turkey). One of the many challenges of working in this context was delivery of services, such as to areas like Makhmour, which required clear and concise direction in order to be successfully executed. Again, I really enjoyed having to communicate with many different actors in order to figure out the best possible way to achieve our common goals, and we managed to begin collecting data on protection and recreational services we could provide to women and children in this area.
  
- Carried out and collected on-the-ground data, produced localised reports   -->
+ Carried out and collected on-the-ground data, produced localised reports  
 <!-- - Any experience relevent to software development -->
 
-<!-- **Cultural Mediator** | **Save the Children** | (Kos, Greece)   
+**Cultural Mediator** | **Save the Children** | (Kos, Greece)   
 (2016-2017)
 An INGO delivering humanitarian aid services to children.
 
-Responsible for mediating relations between 40 undocumented minors and a team of NGO staff. This was a very challenging environment, but one where I enjoyed the fast pace and unpredictable nature of the work. One of the biggest challenges faced here was of improving relations between staff and minors, which I helepd to improve through delivering cultural workshops, as well as facilitating meetings between staff and beneficiaries. These efforts came to a fore during the 2017 Kos earthquake, as none of us were really prepared for this, working in makeshift camps on the streets really solidified our sense of solidarity and community! -->
+Responsible for mediating relations between 40 undocumented minors and a team of NGO staff. This was a very challenging environment, but one where I enjoyed the fast pace and unpredictable nature of the work. One of the biggest challenges faced here was of improving relations between staff and minors, which I helepd to improve through delivering cultural workshops, as well as facilitating meetings between staff and beneficiaries. These efforts came to a fore during the 2017 Kos earthquake, as none of us were really prepared for this, working in makeshift camps on the streets really solidified our sense of solidarity and community! 
 
 <!-- - Any experience relevent to software development
  -->
@@ -152,19 +149,19 @@ Responsible for mediating relations between 40 undocumented minors and a team of
 That in some arguable way make you a better software developer or well-rounded person
  -->
  
-<!-- **Kernel KB3 cohort** (2021) (Remote)  
+**Kernel KB3 cohort** (2021) (Remote)  
 a collective of people discussing and networking on potential futures in web3 and decentralised internet.
 
 **Arabic at the French Institute** (2018 to 2019) (Cairo, Egypt)  
 MSA and Ammeyah
- -->
-------------
- -->
-<!-- ## Education -->
 
-<!-- **Software Development Bootcamp** | **Makers Academy**  
+------------
+
+## Education
+
+**Software Development Bootcamp** | **Makers Academy**  
 (June 2021 to Oct 2021)   
- -->
+
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
 <!-- - e.g Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:
@@ -173,16 +170,16 @@ MSA and Ammeyah
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-<!-- Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
+Intensive 16-week development bootcamp, comprising of pair-programming, self-led learning, group projects and workshops. Also covered:   
   
 - Agile methodologies in fast-paced (~2week) group projects  
 - Quickly picking up new technologies, using different tech stacks   
 - Developed clean-code principals  
 - Covered OOP, TDD, MVC  
 - Ruby, Rails, Sinatra, JS, MERN  
-- RSpec, Capybara, Jasmine, Cypress   -->
+- RSpec, Capybara, Jasmine, Cypress
 
-<!-- **MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
+**MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
 (2014 to 2016)  
 Distinction  
 
@@ -192,11 +189,11 @@ Distinction
 
 ***Year Abroad*** | **University of Melbourne**  
 (2011-2012)  
-P -->
+P
 
 -----------
 
-<!-- ## Skills -->
+## Skills 
 
 <!--
 -STAR
@@ -212,7 +209,7 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
  -->
 
-<!-- **Communicator**
+**Communicator**
 
 Working for SMART news as the only native English speaker in an Arabic newspaper was a position purely based on the importance of effective communication. I had to constantly make sure my manager was able to understand the decisions I was taking, as he only spoke Arabic. I did this through sending regular e-mail updates, requesting other colleagues to mediate our conversations, and sending translated versions of the texts. This ensured that our work thrived, despite the barriers of distance (working remotely) and language.  
 
@@ -237,8 +234,7 @@ I worked as a researcher for Law Business Research, which required me to produce
 
 My time at Makers allowed me to put these skills to great use, especially in terms of arriving to a MVP. I was able to deduce the key elements and features of the app and focus on these to deadlines. It has also made testing a very interesting concept to get my head around, as I look to test behaviours and not states - I find this very enjoyable. I would definitely like to delve deeper into testing methods and implementation in any future employment I may have.
 
- -->
-<!-- #### This Skill
+#### This Skill
 
 - Experience
 - Achievements
@@ -254,8 +250,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
  -->
 
-------------
-<!-- 
+------------ 
 ## Hobbies
 
 **Yoga, hiking, running, climbing : :** I love being active, going on adventures and trying out new and novel activities.
@@ -263,4 +258,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Painting, drawing, tattoo : :** I enjoy spending time honing my drawing skills. I attend life-drawing sessions when I can. Most recently, I am teaching myself how to tattoo!
 
 **Writing, reading : :** As a former literature student, of course I enjoy reading and also looking to write creatively, in short-story and play format.
- -->
