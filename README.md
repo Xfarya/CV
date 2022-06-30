@@ -66,8 +66,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 </table>
 
 ----------
-
-<!--     
+     
 ### AceBook
 
 <table align="center">
@@ -234,7 +233,7 @@ I worked as a researcher for Law Business Research, which required me to produce
 
 My time at Makers allowed me to put these skills to great use, especially in terms of arriving to a MVP. I was able to deduce the key elements and features of the app and focus on these to deadlines. It has also made testing a very interesting concept to get my head around, as I look to test behaviours and not states - I find this very enjoyable. I would definitely like to delve deeper into testing methods and implementation in any future employment I may have.
 
-!--> #### This Skill
+<!-- #### This Skill
 
 - Experience
 - Achievements
