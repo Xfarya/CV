@@ -234,7 +234,7 @@ I worked as a researcher for Law Business Research, which required me to produce
 
 My time at Makers allowed me to put these skills to great use, especially in terms of arriving to a MVP. I was able to deduce the key elements and features of the app and focus on these to deadlines. It has also made testing a very interesting concept to get my head around, as I look to test behaviours and not states - I find this very enjoyable. I would definitely like to delve deeper into testing methods and implementation in any future employment I may have.
 
-#### This Skill
+!--> #### This Skill
 
 - Experience
 - Achievements
@@ -255,6 +255,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Yoga, hiking, running, climbing : :** I love being active, going on adventures and trying out new and novel activities.
 
-**Painting, drawing, tattoo : :** I enjoy spending time honing my drawing skills. I attend life-drawing sessions when I can. Most recently, I am teaching myself how to tattoo!
+**Painting, drawing, tattoo : :** I enjoy spending time honing my drawing skills. I attend life-drawing sessions when I can. Most recently, I am teaching myself how to tattoo
 
 **Writing, reading : :** As a former literature student, of course I enjoy reading and also looking to write creatively, in short-story and play format.
