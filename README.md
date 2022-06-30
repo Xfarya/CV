@@ -98,7 +98,6 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
       <td width="8%" align="center"></td>
     </tr>
 </table>
--->
 ----------
 
 ### BlackJack
@@ -113,7 +112,8 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
     </tr>
 </table>
 
-
+-->
+ 
 ## Work Experience
  
 **Chief Editor (English)** | **SMART news** | (Remote)  
