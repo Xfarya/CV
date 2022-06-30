@@ -66,7 +66,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
 </table>
 
 ----------
-     
+<!--     
 ### AceBook
 
 <table align="center">
@@ -98,7 +98,7 @@ For a complete list, see my <a href= "https://github.com/Xfarya?tab=repositories
       <td width="8%" align="center"></td>
     </tr>
 </table>
-    
+-->
 ----------
 
 ### BlackJack
