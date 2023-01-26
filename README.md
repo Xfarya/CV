@@ -128,7 +128,7 @@ Worked remotely within diverse teams. One of the problems this encountered was t
 (2017-2018)   
  An NGO delivering medical aid to the North-eastern parts of Syria  
  
- Lead a small team of Syrian refugees during the build-up of one of their offices in Iraq (the organisation is headquartered in Gazientep, Turkey). One of the many challenges of working in this context was delivery of services, such as to areas like Makhmour, which required clear and concise direction in order to be successfully executed. Again, I really enjoyed having to communicate with many different actors in order to figure out the best possible way to achieve our common goals, and we managed to begin collecting data on protection and recreational services we could provide to women and children in this area.
+ Lead a small team of Syrian refugees during the building-up of one of their offices in Iraq (the organisation is headquartered in Gazientep, Turkey). One of the many challenges of working in this context was delivery of services, such as to areas like Makhmour, which required clear and concise direction in order to be successfully executed. Again, I really enjoyed having to communicate with many different actors in order to figure out the best possible way to achieve our common goals, and we managed to begin collecting data on protection and recreational services we could provide to women and children in this area.
  
  Carried out and collected on-the-ground data, produced localised reports  
 <!-- - Any experience relevent to software development -->
