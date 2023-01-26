@@ -256,4 +256,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Painting, drawing, tattoo : :** I enjoy spending time honing my drawing skills. I attend life-drawing sessions when I can. Most recently, I am teaching myself how to tattoo
 
-**Writing, reading : :** As a former literature student, of course I enjoy reading and also looking to write creatively, in short-story and play format.
+**Writing, reading : :** As a former student of literature, of course I enjoy reading and also looking to write creatively, in short-story and play format.
