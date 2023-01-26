@@ -213,7 +213,7 @@ During Makers, I was able to apply these skills during pair-programming sessions
 
 **Thrive under pressure**
 
-Being able to communicate and mediate has been a big part of most of my previous jobs. As a cultural mediator with Save the Children, it was my job to make sure the beneficiaries were receiving all the information pertinent to their needs at the shelter. I wrote up and translated copies to be distributed around the shelter, and headed any staff meetings or interactions that involved communication with the beneficiaries. I was also the first point of call for emergencies. 
+Being able to effectively communicate and mediate has been a big part of most of my previous jobs. As a cultural mediator with Save the Children, it was my job to make sure the beneficiaries were receiving all the information pertinent to their needs at the shelter. I wrote up and translated copies to be distributed around the shelter, and headed any staff meetings or interactions that involved communication with the beneficiaries. I was also the first point of call for emergencies. 
 
 During Makers, we were given several 2 week challenges from idea to implementation, where we were also to learn the stack or tech within that time frame. I noticed my previous experiences were useful in this as I was able to deal with deadlines effectively, and was also effective at keeping the team on schedule by consistent rounds of standups and retros. I was also able to keep the morale up when other team members were stressed. I believe this is a strong asset in any team as it means I do not shy away from pressure or intensity, and in certain contexts, even enjoy such accelerated environments.
 
