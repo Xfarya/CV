@@ -137,7 +137,7 @@ Worked remotely within diverse teams. One of the problems this encountered was t
 (2016-2017)
 An INGO delivering humanitarian aid services to children.
 
-Responsible for mediating relations between 40 undocumented minors and a team of NGO staff. This was a very challenging environment, but one where I enjoyed the fast pace and unpredictable nature of the work. One of the biggest challenges faced here was of improving relations between staff and minors, which I helepd to improve through delivering cultural workshops, as well as facilitating meetings between staff and beneficiaries. These efforts came to a fore during the 2017 Kos earthquake, as none of us were really prepared for this, working in makeshift camps on the streets really solidified our sense of solidarity and community! 
+Responsible for mediating relations between 40 undocumented minors and a team of NGO staff. This was a very challenging environment, but one where I enjoyed the fast pace and unpredictable nature of the work. One of the biggest challenges faced here was of improving relations between staff and minors, which I helped to achieve through delivering cultural workshops, as well as by facilitating meetings between staff and beneficiaries. These efforts came to a fore during the 2017 Kos earthquake. As none of us were really prepared for this situation, by working in makeshift camps on the streets, we managed to really solidify our sense of solidarity and community! 
 
 <!-- - Any experience relevent to software development
  -->
