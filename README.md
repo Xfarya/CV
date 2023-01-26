@@ -180,15 +180,12 @@ Intensive 16-week development bootcamp, comprising of pair-programming, self-led
 
 **MA(hons) Anthropology, Arabic, Development** | **School of Oriental and African Studies**  
 (2014 to 2016)  
-Distinction  
 
 **BA(hons) English Literature, Philosophy** | **University of Edinburgh**  
 (2009 to 2013)   
-2,1  
 
 ***Year Abroad*** | **University of Melbourne**  
-(2011-2012)  
-P
+(2011-2012) 
 
 -----------
 
